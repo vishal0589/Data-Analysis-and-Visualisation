@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Price,Stock_Quantity
+PR_OR001_PR,Laptop^,37,110
+PR_OR002_PR,Smartphone*,31,178
+PR_OR003_PR,Headphones*,29,107
+PR_OR004_PR,Television%,29,107
+PR_OR005_PR,Camera^,31,168
+PR_OR006_PR,Washing Machine%,12,189
+PR_OR007_PR,Refrigerator*,30,189
+PR_OR008_PR,Oven!,34,163
+PR_OR009_PR,Microwave*,49,149
+PR_OR010_PR,Blender^,47,135
+PR_OR011_PR,Toaster!,32,139
+PR_OR012_PR,Air Conditioner^,16,103
+PR_OR013_PR,Fan%,38,188
+PR_OR014_PR,Heater^,19,142
+PR_OR015_PR,Router%,37,133
+PR_OR016_PR,Smart Watch^,44,125
+PR_OR017_PR,Speakers%,34,102
+PR_OR018_PR,Printer*,26,111
+PR_OR019_PR,Monitor*,39,175
+PR_OR020_PR,Keyboard^,39,140
+PR_OR021_PR,Mouse!,22,190
+PR_OR022_PR,Vacuum Cleaner^,29,158
+PR_OR023_PR,Dishwasher!,35,160
+PR_OR024_PR,Sunglasses!,37,200
+PR_OR025_PR,Backpack*,44,188
+PR_OR026_PR,Notebook!,15,158
+PR_OR027_PR,Pen^,25,135
+PR_OR028_PR,Table^,30,159
+PR_OR029_PR,Chair*,45,125
+PR_OR030_PR,Lamp*,32,170

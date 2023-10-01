@@ -1,0 +1,31 @@
+Order_ID,Product_Name,Quantity,Date
+*OR001*, Laptop& ,5,17-02-2023
+  OR002  , Smartphone# ,7,12-06-2023
+*OR003*, Headphones$ ,4,03-02-2023
+  OR004  , Television@ ,4,10-09-2023
+*OR005*, Camera# ,6,09-01-2023
+  OR006  , Washing Machine$ ,1,06-10-2023
+*OR007*, Refrigerator@ ,6,11-03-2023
+  OR008  , Oven$ ,3,25-03-2023
+*OR009*, Microwave# ,2,22-12-2023
+  OR010  , Blender& ,10,17-04-2023
+*OR011*, Toaster@ ,8,21-08-2023
+  OR012  , Air Conditioner& ,2,07-08-2023
+*OR013*, Fan$ ,8,08-01-2023
+  OR014  , Heater& ,10,28-10-2023
+*OR015*, Router& ,10,04-08-2023
+  OR016  , Smart Watch@ ,10,04-04-2023
+*OR017*, Speakers# ,9,10-09-2023
+  OR018  , Printer& ,3,22-01-2023
+*OR019*, Monitor# ,2,08-05-2023
+  OR020  , Keyboard$ ,7,01-11-2023
+*OR021*, Mouse# ,1,28-08-2023
+  OR022  , Vacuum Cleaner& ,3,09-03-2023
+*OR023*, Dishwasher$ ,2,05-11-2023
+  OR024  , Sunglasses$ ,8,02-05-2023
+*OR025*, Backpack$ ,1,09-05-2023
+  OR026  , Notebook# ,2,16-01-2023
+*OR027*, Pen$ ,6,01-03-2023
+  OR028  , Table# ,6,20-11-2023
+*OR029*, Chair$ ,7,25-03-2023
+  OR030  , Lamp& ,1,24-10-2023
